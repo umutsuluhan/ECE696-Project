@@ -1,0 +1,4 @@
+Using SNN_YOLO model.
+Total trainable parameters: 5868018
+Training model with 151 training samples and 17 validation samples.
+Training model with 151 training samples and 17 validation samples.
